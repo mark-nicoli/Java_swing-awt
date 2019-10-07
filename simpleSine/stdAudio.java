@@ -183,8 +183,6 @@ public class stdAudio {
 	   }
 
 
-
-
 	   /**
 	    * Save the double array as a sound file (using .wav or .au format).
 	    */
@@ -220,12 +218,6 @@ public class stdAudio {
 	       }
 	   }
 
-
-
-
-	  /***********************************************************************
-	   * sample test client
-	   ***********************************************************************/
 
 	   // create a note (sine wave) of the given frequency (Hz), for the given
 	   // duration (seconds) scaled to the given volume (amplitude)
