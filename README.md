@@ -1,2 +1,2 @@
 # Java_swing-awt
-Music programming
+Music programming, Sine synthesis
